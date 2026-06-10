@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* CSS Document */
+
+p{
+	
+
+
+ 
+	font-famyli:"comic Sans MS" ,cursive ;
+	font-size:14px;
+	color:#FFFFFF;
+	line-height:18px;
+	padding:5px;
+}
+
+.negritas {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 11px;
+	line-height: 18px;
+	font-weight: bold;
+	color: #000000;
+}
+.navegacion{
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 18px;
+	color: #FFF;
+	font-style: normal;
+	font-weight: bold;
+	text-decoration: none;
+	background-color: #red;
+	display: block;
+	width: 140px;
+	padding: 8px;
+}
+.navegacion:hover{
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	color: #FFF;
+	font-style: normal;
+	font-weight: bold;
+	text-decoration: none;
+	background-color: #DCEDC8;
+	display: block;
+	width: 140px;
+	padding: 8px;
+}
